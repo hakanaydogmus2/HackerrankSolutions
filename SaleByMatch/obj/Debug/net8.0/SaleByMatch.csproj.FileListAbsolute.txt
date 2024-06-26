@@ -1,0 +1,14 @@
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\bin\Debug\net8.0\SaleByMatch.exe
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\bin\Debug\net8.0\SaleByMatch.deps.json
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\bin\Debug\net8.0\SaleByMatch.runtimeconfig.json
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\bin\Debug\net8.0\SaleByMatch.dll
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\bin\Debug\net8.0\SaleByMatch.pdb
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.AssemblyInfoInputs.cache
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.AssemblyInfo.cs
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.csproj.CoreCompileInputs.cache
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.dll
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\refint\SaleByMatch.dll
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.pdb
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\SaleByMatch.genruntimeconfig.cache
+C:\Users\hakayd\Desktop\hackTheRank\HackerrankSolutions\SaleByMatch\obj\Debug\net8.0\ref\SaleByMatch.dll
